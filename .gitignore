@@ -1,0 +1,35 @@
+# Unity: Cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+# Unity/IDE
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Generated IDE solution files
+*.slnx
